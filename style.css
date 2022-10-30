@@ -1,0 +1,54 @@
+body
+{
+    font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  color: white;
+ background: linear-gradient(to left, #ff6e7f,#bfe9ff);
+}
+span
+{
+  font-size: 30px;
+}
+.heading {
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 9px;
+  font-family: "Audiowide", sans-serif;
+  color: black;
+}
+label{
+    color: lime;
+}
+p{
+    color: blue;
+}
+.copy_right_footer {
+    position: fixed;
+    background: linear-gradient(to left, #5d4157, #a8caba);
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    color: rgb(55, 255, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 255, 229);
+    font-family:'Courier New', Courier, monospace
+ }
+ #camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#
+{
+  color: black;
+}
+.
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
